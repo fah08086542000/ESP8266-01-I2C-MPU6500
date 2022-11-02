@@ -5,8 +5,8 @@
 #include <ESP8266mDNS.h>
 
 #ifndef STASSID
-#define STASSID "donotuse"
-#define STAPSK  "66666663"
+#define STASSID "NAME"
+#define STAPSK  "PASSWORD"
 #endif
 
 const char *ssid = STASSID;
